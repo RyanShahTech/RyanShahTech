@@ -1,5 +1,5 @@
-# Hello World!, I'm Ryan, a Full-stack Developer 👋🏽:
-🛜 currently working on my own side projects<br>👨🏼‍🎓 recently graduated from Kennesaw State University<br>👨🏼‍💻 looking for full-time opportunities in tech
+# Hello World!, I'm Ryan, a Big Tech Software Engineer 👋🏽:
+💻 Big Tech Software Engineer<br>📰 Featured in Business Insider<br>🏆 3x Guinness World Records Holder in Tech
 
 
 # 💻 Tech Stack:
